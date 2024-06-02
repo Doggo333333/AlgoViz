@@ -1,0 +1,9 @@
+This project visualizes the process of sorting an array using different sorting algorithms. The visualizations help to understand how each sorting algorithm works by showing the intermediate steps as the array gets sorted.
+
+Features:
+Visualize Selection Sort: Watch as the selection sort algorithm picks the smallest elements and places them in the correct position.
+Visualize Merge Sort: Observe how merge sort splits the array into smaller parts, sorts them, and then merges them back together.
+
+Requirements:
+Python 3.x
+matplotlib library
